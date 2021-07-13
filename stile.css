@@ -1,0 +1,174 @@
+/* Sezioni Principali */ 
+
+/*header{
+	width: auto;
+	padding-top: 10px;
+}*/
+
+ main{
+	padding-top: 10px;
+	max-height: 100%;
+}
+
+
+#index{
+	background-image: url(immagini/tano/AFP00.jpg);
+	opacity: 0.6;
+}
+
+#relation{
+	background-image: url(immagini/bannerfoto.jpg);
+	color: white;
+}
+
+.sfondo {
+	background-color: #000000;
+	opacity: 0.8;
+}
+
+
+/*---- FOOTER ---*/
+
+footer{
+	background-color: #F5F5F5;
+	height: 400px;
+	margin-top: 50px;
+	padding-top: 80px;
+}
+
+footer > div > div > div > h5, footer > div > div > div > h6{
+	left: 50px;
+	position: relative;
+}
+
+footer > div > div > div > h5 > a:visited{
+  color: rgba(0, 0, 0, 0.9);
+}
+
+
+#intestazioneCatalogo{
+	background-image: url(immagini/PanteraBanner2.jpg);
+}
+
+/*---- Item img ----*/
+
+#itemImg{
+	width: 500px;
+	height: auto;
+	float: center;
+}
+
+
+
+
+
+/*--- TESTO ----*/
+
+.sfondo p, .sfondo #subIntext {
+	margin: 3%;
+  	color: #ffffff;
+  	text-align: justify;
+}
+
+h1{
+	font-size: 24pt;
+	font-family: Copperplate Gothic Bold;
+	
+}
+
+#subIntext{
+	font-size: 24pt;
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight: bold;
+
+}
+
+p, h3, h5, h6{
+	font-family: "Time new Roman";
+	color: rgba(0, 0, 0, 0.9);
+	font: giustify;
+}
+
+
+p{
+	font-size: 14pt;
+	/*text-shadow: 3px 3px 10px #dedede,
+				 -3px -3px 10px #dedede,
+				 3px -3px 10px #dedede,
+				 -3px 3px 10px #dedede;*/
+}
+
+i{
+	height: 50px;
+	width: 50px;
+	float: left;
+}
+
+
+#descItem{
+	text-shadow: none;
+	font-style: italic;
+}
+
+/*--- Classi  ----*/
+
+.carousel img{
+	height: 500px;
+	width: 300px;
+}
+
+.dropdown .btn {
+	width: 100%;
+
+}
+
+.card:hover, .ombra:hover {
+	box-shadow: 5px  5px 5px #dedede,
+              	-5px -5px 5px #dedede,
+               	5px -5px 5px #dedede,
+              	-5px  5px 5px #dedede;
+}
+.card-text{
+	font-size: 10pt;
+	font-family: "Time new Roman";
+	color: rgba(0, 0, 0, 0.9);
+	text-shadow: none;
+}
+.card-body {
+	border-radius: 8px;
+	display: inline;
+	margin-left: 10px;
+	display: flex;
+	flex-direction: column;
+	padding: 20px;
+}
+
+
+
+.card > img{
+	height: 18rem;
+}
+
+
+
+
+/*---- Checkbox, Button & Breadcrumbs---- */ 
+
+.checkbox-container > h3 {
+	font-size: 1em;
+}
+
+input[type="checkbox"] + label {
+	display: inline;
+}
+
+.breadcrumbs > ul > li {
+	color: rgba(0, 0, 0, .5); 
+	display: inline; 
+	font-size: .9em;
+}
+
+/* ::after indica che dopo ogni elemento con le classi/attributi indicati bisogna inserire il contenuto riportato dalla proprietà content */
+.breadcrumbs li:not(:last-child)::after {
+	content: " >";
+}

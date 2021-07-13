@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+ 	<fileDesc>
+ 		<titleStmt>
+ 			<title>Fax Assemlea interfacoltà Bolo</title>
+ 			<author>Assemblea interfacoltà Bologna (1990)</author>
+			<respStmt>
+				<resp>Digitalizzazione</resp>
+				<resp>Codifica</resp>
+				<resp>Marcatura</resp>
+				<name xml:id="MV">Morgan Vallari</name>
+			</respStmt>
+ 		</titleStmt>
+ 		<publicationStmt>
+      		<publisher>Archivio storico dei movimenti Via Avesella</publisher>
+      		<publisher>Morgan Vallari</publisher>
+      		<pubPlace>Bologna</pubPlace>
+      		<date>2021</date>
+      		<availability>
+        		<licence>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</licence>
+      		</availability>
+    	</publicationStmt>
+    	<seriesStmt>
+            <p>Fondo Senza Frontiere - serie università - sotto serie documenti Pantera</p>
+         </seriesStmt>
+ 		<sourceDesc>
+ 			<msDesc>
+	 			<msIdentifier>
+	 				<country>Italia</country>
+	 				<region>emilia romagna</region>
+	 				<settlement>Bologna</settlement>
+	 				<repository>Archivio storico dei movimenti Via Avesella</repository>
+	 				<collection>Pantera</collection>
+	 				<idno>AF/U/A/35</idno>
+				</msIdentifier>
+			</msDesc>
+		</sourceDesc> 		
+	</fileDesc>
+	<encodingDesc>
+                  <samplingDecl>
+                    <p>La data del documento è stata dedotta tramite analisi degli avvenimenti e riferimenti storici nel testo</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+				</editorialDecl>
+	</encodingDesc>
+	<profileDesc>
+		<creation>
+			<date>02/1990</date>
+		</creation>
+		<langUsage>
+			<language ident="it">Italiano</language>
+		</langUsage>
+	</profileDesc>
+</teiHeader>
+<text>
+	<body xml:lang="it" resp="#MV">
+	<p>L’interfacoltà dell’Ateneo di Bologna propone a tutti gli Atenei in lotta una manifestazione del movimento studentesco in occasione del Festival di San Remo. Data la notevole risonanza di tale puttanata e la possibilità di esprimerci in Eurovisione abbiamo pensato di leggere un comunicato in cui spiegare le ragioni della nostra protesta e le nostre rivendicazioni in merito, come esplicitate dal documento dell’assemblea Nazionale di Palermo. 
+	Riteniamo di dover approfittare di tale occasione per esprimerci direttamente senza la mediazione degli organi d’informazione.</p>
+
+	<p>Assemblea interfacoltà Bologna</p>
+
+	<p>DIFFONDETE</p>
+	</body>
+</text>
+</TEI>

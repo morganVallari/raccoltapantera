@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://purl.org/dc/elements/1.1/" xml:id="RP">
+	<item n-="00008" xml:id="RP-00008">
+		<dc:title>Foto numero 8 dell'album Pantera di Tano D'Amico</dc:title>
+		<dc:description>
+			<img source="immagini/pantera-AFP08.jpg"/>
+			L'immagine fa parte dell'album "Pantera", inedito progetto fotografico realizzato nel <date>1990</date> dal fotoreporter <person>Tano D'Amico</person> durante i mesi di agitazione nelle facoltà Italiane contro la riforma <person>Ruberti</person> e pubblicata per <label>Edizioni Stampa Alternativa</label>, ora conservato all'archivio dei movimenti "Via Avesella", a Bologna. L'album fotografico rappresenta una testimonianza dei volti e della vita del movimento della <name>Pantera</name> nelle varie città della protesta.
+		</dc:description>
+		<dc:creator>Tano D'Amico</dc:creator>
+		<dc:type>fotografia analogica</dc:type>
+		<dc:date type="creation">1990</dc:date>
+		<dc:title>Pantera</dc:title>
+		<dc:coverage>Italia</dc:coverage>
+		<dc:subject type="classification-scheme">Fotoreportage del movimento studentesco Pantera, fotografia analogica</dc:subject>
+		<dc:type>Fotografia</dc:type>
+		<dc:format>fotografia analogica, 35mm, 10x15</dc:format>
+		<dc:source xml:id="AVA">Archivio storico dei movimenti Via Avesella</dc:source>
+		<dc:provenance>Archivio storico dei movimenti Via Avesella</dc:provenance>
+		<dc:relation>Home Movies - archivio nazionale del film di famiglia</dc:relation>
+	</item>
+</library>
