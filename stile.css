@@ -1,9 +1,5 @@
-/* Sezioni Principali */ 
 
-/*header{
-	width: auto;
-	padding-top: 10px;
-}*/
+
 
  main{
 	padding-top: 10px;
@@ -11,23 +7,6 @@
 }
 
 
-#index{
-	background-image: url(immagini/tano/AFP00.jpg);
-	opacity: 0.6;
-}
-
-#relation{
-	background-image: url(immagini/bannerfoto.jpg);
-	color: white;
-}
-
-.sfondo {
-	background-color: #000000;
-	opacity: 0.8;
-}
-
-
-/*---- FOOTER ---*/
 
 footer{
 	background-color: #F5F5F5;
@@ -59,8 +38,17 @@ footer > div > div > div > h5 > a:visited{
 }
 
 
+#index{
+	background-image: url(immagini/tano/AFP00.jpg);
+	opacity: 0.6;
+}
 
 
+
+.sfondo {
+	background-color: #000000;
+	opacity: 0.8;
+}
 
 /*--- TESTO ----*/
 
@@ -144,7 +132,9 @@ i{
 }
 
 
-
+iframe{
+	width: auto;
+}
 .card > img{
 	height: 18rem;
 }
